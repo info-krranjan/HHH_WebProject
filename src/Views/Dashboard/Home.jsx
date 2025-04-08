@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="container py-5">
       <div className="card shadow-lg p-4">
-        <h1 className="text-center text-primary mb-4">Home Help Hub</h1>
+        <h1 className="text-center text-primary-black mb-4">Home Help Hub</h1>
         
         {/* About Company Section */}
         <section className="mb-5 text-center">
